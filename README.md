@@ -105,6 +105,9 @@ The `MMM` (Mixture Model Manager) class is a powerful unified wrapper that mana
 ```python
 pip install torch
 ```
+```python
+from MMM import MMM
+```
 ## ✅ 1. **Train and Add a GMM**
 
 ### Usage:
